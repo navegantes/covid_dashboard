@@ -48,6 +48,8 @@
 
 Sobre o seu projeto
 
+Projeto original <a href="https://asimov.academy/criando-mapas-interativos-com-python/" target="_blank"> aqui </a>.
+
 ## ✨ Funcionalidades ##
 
 ✔️ Funcionalidade 1;\
