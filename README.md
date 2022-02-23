@@ -1,13 +1,13 @@
-<!-- <div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="Covid_Dashboard" />
 
-  &#xa0;
-
-  <!-- <a href="https://covid_dashboard.netlify.com">Demo</a> 
-</div> 
--->
 
 <h1 align="center">Covid_Dashboard</h1>
+
+<div align="center" id="top"> 
+  <img src="./assets/Screenshot.png" alt="Covid_Dashboard" />
+  
+  &#xa0;
+  <!-- <a href="https://covid_dashboard.netlify.com">Demo</a> -->
+</div> 
 
 <p align="center">
   <img alt="Principal linguagem do projeto" src="https://img.shields.io/github/languages/top/{{YOUR_GITHUB_USERNAME}}/covid_dashboard?color=56BEB8">
@@ -42,7 +42,6 @@
   <a href="#memo-licença">Licença</a> &#xa0; | &#xa0;
   <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">Autor</a>
 </p>
-
 <br>
 
 ## 🎯 Sobre ##
@@ -72,7 +71,7 @@ Antes de começar 🏁, você precisa ter o [Git](https://git-scm.com) e o [Node
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/{{YOUR_GITHUB_USERNAME}}/covid_dashboard
+$ git clone https://github.com/navegantes/covid_dashboard.git
 
 # Entre na pasta
 $ cd covid_dashboard
