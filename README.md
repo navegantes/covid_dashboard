@@ -3,13 +3,13 @@
 <h1 align="center">Covid_Dashboard</h1> 
 
 <p align="center">
-  <img alt="Principal linguagem do projeto" src="https://img.shields.io/github/languages/top/{{YOUR_GITHUB_USERNAME}}/covid_dashboard?color=56BEB8">
+  <img alt="Principal linguagem do projeto" src="https://img.shields.io/github/languages/top/navegantes/covid_dashboard?color=56BEB8">
 
-  <img alt="Quantidade de linguagens utilizadas" src="https://img.shields.io/github/languages/count/{{YOUR_GITHUB_USERNAME}}/covid_dashboard?color=56BEB8">
+  <img alt="Quantidade de linguagens utilizadas" src="https://img.shields.io/github/languages/count/navegantes/covid_dashboard?color=56BEB8">
 
-  <img alt="Tamanho do repositório" src="https://img.shields.io/github/repo-size/{{YOUR_GITHUB_USERNAME}}/covid_dashboard?color=56BEB8">
+  <img alt="Tamanho do repositório" src="https://img.shields.io/github/repo-size/navegantes/covid_dashboard?color=56BEB8">
 
-  <img alt="Licença" src="https://img.shields.io/github/license/{{YOUR_GITHUB_USERNAME}}/covid_dashboard?color=56BEB8">
+  <img alt="Licença" src="https://img.shields.io/github/license/navegantes/covid_dashboard?color=56BEB8">
 
   <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/{{YOUR_GITHUB_USERNAME}}/covid_dashboard?color=56BEB8" /> -->
 
@@ -33,7 +33,7 @@
   <a href="#white_check_mark-pré-requisitos">Pré requisitos</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-começando">Começando</a> &#xa0; | &#xa0;
   <a href="#memo-licença">Licença</a> &#xa0; | &#xa0;
-  <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">Autor</a>
+  <a href="https://github.com/navegantes" target="_blank">Autor</a>
 </p>
 <br>
 
